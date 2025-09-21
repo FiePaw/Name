@@ -1,2 +1,2 @@
-update: true
-version: 2
+update: false
+version: 1
